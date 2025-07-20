@@ -1,0 +1,5 @@
+default_URL='https://www.naukri.com/'
+email='vsrijan68@gmail.com'
+password='Hare#Rama88'
+job_name='Java Developer'
+location='Gurgaon'
